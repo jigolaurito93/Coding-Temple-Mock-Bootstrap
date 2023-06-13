@@ -4,10 +4,10 @@
 <ul>
   <li>Set up an HTML file and connected Bootstrap framework</li>
   <li>Created a container and added 3 rows: Header Row, Navbar, Main Content</li>
-  <li>Included my name on header row, using white background and bottom padding of 5, centered it's position and made the font bold</li>
+  <li>Included my name on header row, using white background and bottom padding of 5 for spacing, centered it's position and made the font bold</li>
   <li>Used a bootstrap navbar with dark theme background, added container-fluid to remove the margins</li>
-  <li>Separated the 2 navbar div and applied justify-content-between to separate the "link" column from the rest</li>
-  <li>Updated the Main Content by adding 2 columns</li>
+  <li>Separated the 2 navbar div and applied a flexbox feature which is justify-content-between to separate the "link" column from the rest</li>
+  <li>Updated the Main Content by adding 2 columns with Div</li>
   <li>Left column has the sizing of 8/12 while the right column has 4/12</li>
   <li>Created a top and bottom card with bottom margin of 3 with a Title and a Subtitle</li>
   <li>Included random photo using https://picsum.photos and used a proper size for the page</li>
