@@ -1,5 +1,5 @@
 # Coding-Temple-Mockup-Bootstrap
-<h1>Coding Temple Mockup Student Page Website</h1>
+
 <h3>What I did:</h3>
 <ul>
   <li>Set up an HTML file and connected Bootstrap framework</li>
